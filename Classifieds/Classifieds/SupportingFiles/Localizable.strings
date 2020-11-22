@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Classifieds
+
+  Created by Muhammad Nadeem on 21/11/2020.
+  
+*/
+
+// Product List
+"PRODUCT_LIST_TITLE"        = "Classifieds";
+"PRODUCT_DETAIL_TITLE"      = "Product Detail";
